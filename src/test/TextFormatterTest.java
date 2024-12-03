@@ -1,12 +1,12 @@
 package test;
 
-import org.junit.Test;
-import static org.junit.Assert.*;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
 
-import main.java.PlainText;
-import main.java.TextFormatter;
-import main.java.TrimDecorator;
-import main.java.UpperCaseDecorator;
+import main.PlainText;
+import main.TextFormatter;
+import main.TrimDecorator;
+import main.UpperCaseDecorator;
 
 public class TextFormatterTest {
     @Test

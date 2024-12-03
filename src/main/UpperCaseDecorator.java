@@ -1,4 +1,4 @@
-package main.java;
+package main;
 
 public class UpperCaseDecorator extends TextDecorator{
   public UpperCaseDecorator(TextFormatter formatter){

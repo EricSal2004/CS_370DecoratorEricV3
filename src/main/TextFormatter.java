@@ -1,4 +1,4 @@
-package main.java;
+package main;
 
 public interface TextFormatter {
   String format(String text);

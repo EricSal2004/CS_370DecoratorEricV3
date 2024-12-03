@@ -1,4 +1,4 @@
-package main.java;
+package main;
 
 public abstract class TextDecorator implements TextFormatter {
   protected TextFormatter formatter;
